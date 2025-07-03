@@ -66,5 +66,4 @@ Este proyecto está licenciado bajo MIT / uso interno. Personalízala según tus
 
 ## ✍️ Autor
 
-Carlos Raúl Ardila  
-[GitHub](https://github.com/CarlosRaulArdila)
+Carlos Raúl Ardila
